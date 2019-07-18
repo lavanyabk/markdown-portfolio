@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*books*
+**books**
+_coffee_
+__coffee__
+_sun shine **books** coffee_
